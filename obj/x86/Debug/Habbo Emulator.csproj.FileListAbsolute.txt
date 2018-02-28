@@ -1,0 +1,70 @@
+C:\Users\Brad\Desktop\PlusEmulator\bin\Debug\Habbo Emulator.exe.config
+C:\Users\Brad\Desktop\PlusEmulator\bin\Debug\Habbo Emulator.exe
+C:\Users\Brad\Desktop\PlusEmulator\bin\Debug\Habbo Emulator.pdb
+C:\Users\Brad\Desktop\PlusEmulator\bin\Debug\log4net.dll
+C:\Users\Brad\Desktop\PlusEmulator\bin\Debug\MoreLinq.dll
+C:\Users\Brad\Desktop\PlusEmulator\bin\Debug\MySql.Data.dll
+C:\Users\Brad\Desktop\PlusEmulator\bin\Debug\log4net.xml
+C:\Users\Brad\Desktop\PlusEmulator\bin\Debug\MoreLinq.xml
+C:\Users\Brad\Desktop\PlusEmulator\obj\x86\Debug\Habbo Emulator.exe
+C:\Users\Brad\Desktop\PlusEmulator\obj\x86\Debug\Habbo Emulator.pdb
+C:\Users\Brad\Desktop\PlusEmulator\obj\x86\Debug\Habbo Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Desktop\HabboEmulator\bin\Debug\Habbo Emulator.exe.config
+C:\Users\Brad\Desktop\HabboEmulator\bin\Debug\Habbo Emulator.exe
+C:\Users\Brad\Desktop\HabboEmulator\bin\Debug\Habbo Emulator.pdb
+C:\Users\Brad\Desktop\HabboEmulator\bin\Debug\log4net.dll
+C:\Users\Brad\Desktop\HabboEmulator\bin\Debug\MoreLinq.dll
+C:\Users\Brad\Desktop\HabboEmulator\bin\Debug\MySql.Data.dll
+C:\Users\Brad\Desktop\HabboEmulator\bin\Debug\log4net.xml
+C:\Users\Brad\Desktop\HabboEmulator\bin\Debug\MoreLinq.xml
+C:\Users\Brad\Desktop\HabboEmulator\obj\x86\Debug\Habbo Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Brad\Desktop\HabboEmulator\obj\x86\Debug\Habbo Emulator.exe
+C:\Users\Brad\Desktop\HabboEmulator\obj\x86\Debug\Habbo Emulator.pdb
+C:\Users\Administrator\Desktop\HabboEmulator\bin\Debug\Habbo Emulator.exe.config
+C:\Users\Administrator\Desktop\HabboEmulator\bin\Debug\Habbo Emulator.exe
+C:\Users\Administrator\Desktop\HabboEmulator\bin\Debug\Habbo Emulator.pdb
+C:\Users\Administrator\Desktop\HabboEmulator\bin\Debug\log4net.dll
+C:\Users\Administrator\Desktop\HabboEmulator\bin\Debug\MoreLinq.dll
+C:\Users\Administrator\Desktop\HabboEmulator\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Desktop\HabboEmulator\bin\Debug\log4net.xml
+C:\Users\Administrator\Desktop\HabboEmulator\bin\Debug\MoreLinq.xml
+C:\Users\Administrator\Desktop\HabboEmulator\obj\x86\Debug\Habbo Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HabboEmulator\obj\x86\Debug\Habbo Emulator.exe
+C:\Users\Administrator\Desktop\HabboEmulator\obj\x86\Debug\Habbo Emulator.pdb
+C:\Users\Administrator\Desktop\HabboEmulator\obj\x86\Debug\Habbo Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\obj\x86\Debug\Habbo Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\obj\x86\Debug\Habbo Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\obj\x86\Debug\Habbo Emulator.exe
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\obj\x86\Debug\Habbo Emulator.pdb
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\bin\Debug\Habbo Emulator.exe.config
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\bin\Debug\Habbo Emulator.exe
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\bin\Debug\Habbo Emulator.pdb
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\bin\Debug\log4net.dll
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\bin\Debug\MoreLinq.dll
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\bin\Debug\MySql.Data.dll
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\bin\Debug\log4net.xml
+C:\Users\Westyy\Desktop\HabboEmulator\HabboEmulator\bin\Debug\MoreLinq.xml
+C:\Users\Westyy\Desktop\Emulator\bin\Debug\Habbo Emulator.exe.config
+C:\Users\Westyy\Desktop\Emulator\bin\Debug\Habbo Emulator.exe
+C:\Users\Westyy\Desktop\Emulator\bin\Debug\Habbo Emulator.pdb
+C:\Users\Westyy\Desktop\Emulator\bin\Debug\log4net.dll
+C:\Users\Westyy\Desktop\Emulator\bin\Debug\MoreLinq.dll
+C:\Users\Westyy\Desktop\Emulator\bin\Debug\MySql.Data.dll
+C:\Users\Westyy\Desktop\Emulator\bin\Debug\log4net.xml
+C:\Users\Westyy\Desktop\Emulator\bin\Debug\MoreLinq.xml
+C:\Users\Westyy\Desktop\Emulator\obj\x86\Debug\Habbo Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Westyy\Desktop\Emulator\obj\x86\Debug\Habbo Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Westyy\Desktop\Emulator\obj\x86\Debug\Habbo Emulator.exe
+C:\Users\Westyy\Desktop\Emulator\obj\x86\Debug\Habbo Emulator.pdb
+C:\Users\Westyy\Desktop\Emulator\Emulator\bin\Debug\Habbo Emulator.exe.config
+C:\Users\Westyy\Desktop\Emulator\Emulator\bin\Debug\Habbo Emulator.exe
+C:\Users\Westyy\Desktop\Emulator\Emulator\bin\Debug\Habbo Emulator.pdb
+C:\Users\Westyy\Desktop\Emulator\Emulator\bin\Debug\log4net.dll
+C:\Users\Westyy\Desktop\Emulator\Emulator\bin\Debug\MoreLinq.dll
+C:\Users\Westyy\Desktop\Emulator\Emulator\bin\Debug\MySql.Data.dll
+C:\Users\Westyy\Desktop\Emulator\Emulator\bin\Debug\log4net.xml
+C:\Users\Westyy\Desktop\Emulator\Emulator\bin\Debug\MoreLinq.xml
+C:\Users\Westyy\Desktop\Emulator\Emulator\obj\x86\Debug\Habbo Emulator.csprojResolveAssemblyReference.cache
+C:\Users\Westyy\Desktop\Emulator\Emulator\obj\x86\Debug\Habbo Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Westyy\Desktop\Emulator\Emulator\obj\x86\Debug\Habbo Emulator.exe
+C:\Users\Westyy\Desktop\Emulator\Emulator\obj\x86\Debug\Habbo Emulator.pdb
